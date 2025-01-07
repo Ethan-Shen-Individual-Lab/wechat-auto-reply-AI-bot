@@ -50,10 +50,10 @@
      2. 将下载的插件解压后，点击“加载已解压的扩展程序”，选择插件文件夹。
      3. 使用微信小号扫码登录。
      ```markdown
-      ![Alt text](https://example.com/path/to/image.png)
+      ![Alt text](c3ab36a5db506c306e0bf3fb15b1fda.png)
      ```
      ```markdown
-      ![Alt text](https://example.com/path/to/image.png)
+      ![Alt text](5673e5588049a36afe0efee300ff5e0.png)
      ```
 4. **开始自动回复**:
    - 登录成功后，脚本会开始监听消息，并自动回复指定用户的最新消息。
